@@ -137,7 +137,7 @@ Ce projet consiste à créer un site web d'archivage curatif évolutif en utili
 
 **Maquette**
 
-<img src="file:///DAD-NFN-Seoyul/image/Desktop%20-%201.png" title="" alt="Desktop - 1.png" width="559">
+<img src="file:///DAD-NFN-Seoyul/DAD-NFN-Seoyul/image/Desktop%20-%201.png" title="" alt="Desktop - 1.png" width="559">
 
 <img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/Desktop%20-%202.png" title="" alt="Desktop - 2.png" width="561">
 
