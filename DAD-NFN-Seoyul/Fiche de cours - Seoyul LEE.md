@@ -137,19 +137,19 @@ Ce projet consiste à créer un site web d'archivage curatif évolutif en utili
 
 **Maquette**
 
-<img src="../DAD-NFN-Seoyul/image/Desktop%20-%201.png" width="559">
+<img src="../DAD-NFN-Seoyul/image/Desktop%20-%201.png" width="500">
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/Desktop%20-%202.png" title="" alt="Desktop - 2.png" width="561">
+<img src="../DAD-NFN-Seoyul/image/Desktop%20-%202.png" width="500">
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/Desktop%20-%203.png" title="" alt="Desktop - 3.png" width="564">
+<img src="../DAD-NFN-Seoyul/image/Desktop%20-%203.png" width="500">
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/Desktop%20-%204.png" title="" alt="Desktop - 4.png" width="568">
+<img src="../DAD-NFN-Seoyul/image/Desktop%20-%204.png" width="500">
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/Desktop%20-%205.png" title="" alt="Desktop - 5.png" width="572">
+<img src="../DAD-NFN-Seoyul/image/Desktop%20-%205.png" width="500">
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/Desktop%20-%206.png" title="" alt="Desktop - 6.png" width="573">
+<img src="../DAD-NFN-Seoyul/image/Desktop%20-%206.png" width="500">
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/Desktop%20-%207.png" title="" alt="Desktop - 7.png" width="543">
+<img src="../DAD-NFN-Seoyul/image/Desktop%20-%207.png" width="500">
 
 #### 07.11.2025
 
@@ -161,7 +161,7 @@ Commencer à réaliser le site web.
 
 Refonte de la page Articles en utilisant le CMS.
 
-<img src="/DAD-NFN-Seoyul/image/2025-11-25%2015.13.35.png" title="" alt="2025-11-25 15.13.35.png" width="576">
+<img src="../DAD-NFN-Seoyul/image/2025-11-25%2015.13.35.png" title="" alt="2025-11-25 15.13.35.png" width="576">
 
 <img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.13.52.png" title="" alt="2025-11-25 15.13.52.png" width="582">
 
