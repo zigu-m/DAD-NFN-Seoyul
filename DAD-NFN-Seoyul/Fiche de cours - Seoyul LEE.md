@@ -260,3 +260,25 @@ https://zigucollectioncuratif.framer.website
 accrochage, présentation
 
 ![DSCF3748.JPEG](../DAD-NFN-Seoyul/image/DSCF3748.JPEG)
+
+« L'acte de collection et d'arrangement est en soi un acte de narration. » 수집과 배열의 행위는 곧 서사를 만드는 행위다 
+Ce projet a commencé par cette phrase.
+
+Ce projet s'appelle ZIGU : Collection Curative. ZIGU est mon surnom. Ca vu dir la Terre en coreen.
+C'est un site web responsif que j'ai créé avec Framer. 
+
+Mon but est simple : digitaliser mes pensées et organiser des contenus de qualité.
+C’est un espace d'archivage d'aphorismes, de citations de livres, et de fragments d'idées. La page a trois parties : Réflexions, articles et curation, Aphorismes, c’est la collection de phrases, et playliste de la musique. 
+
+C'est un site collaboratif. 
+Tout le monde peut s'y inscrire, créer sa page et laisser des commentaires. 
+
+Techniquement, j'ai utilisé les outils d'interaction de Framer pour l'UX. 
+Par exemple, scroll, hover, components,
+Le plus important : J'ai utilisé des champs de référence CMS pour modifier les propriétés de design des composants individuels selon les catégories, C'est un styling conditionnel.
+Aussi, j'ai construit de la base de données sur un serveur que j’ai construit, et connexion de l’API aux composants codés pour traiter et lier les données dans l’environnement frontend.
+Ce processus a renforcé mon site et m'a aidé à comprendre le flux de données entre le front-end et le back-end..
+
+Mon objectif d'apprentissage était de maîtriser les Framer Overrides et de connecter le CMS aux variables dynamiques de l'interface. J'ai réussi à créer un design réactif et basé sur les données. 
+Je vais continuer d'ajouter et de collectionner des articles, des phrases et des musiques sur cette page.
+À terme, je souhaite devenir une designer UI/UX qui combine de bonnes compétences techniques avec une esthétique soignée.
