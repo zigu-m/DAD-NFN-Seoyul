@@ -163,7 +163,7 @@ Refonte de la page Articles en utilisant le CMS.
 
 <img src="../DAD-NFN-Seoyul/image/2025-11-25%2015.13.35.png" title="" alt="2025-11-25 15.13.35.png" width="576">
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.13.52.png" title="" alt="2025-11-25 15.13.52.png" width="582">
+<img src="../DAD-NFN-Seoyul/image/2025-11-25%2015.13.52.png" title="" alt="2025-11-25 15.13.52.png" width="582">
 
 J’ai tenté de créer un diaporama à partir de la liste CMS -> échoué car il n’était pas possible de joindre un fichier d’override à la liste CMS.
 
@@ -171,15 +171,15 @@ J’ai tenté de créer un diaporama à partir de la liste CMS -> échoué car i
 
 Création de la page Aphorismes en utilisant le CMS et les code overrides, avec instruction pour que la couleur de fond change selon la catégorie.
 
-![2025-11-25 09.49.19.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2009.49.19.png)
+![2025-11-25 09.49.19.png](../DAD-NFN-Seoyul/image/2025-11-25%2009.49.19.png)
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2010.47.17.png" title="" alt="2025-11-25 10.47.17.png" width="547">
+<img src="../DAD-NFN-Seoyul/image/2025-11-25%2010.47.17.png" title="" alt="2025-11-25 10.47.17.png" width="547">
 
 J’ai construit un serveur API et une base de données en utilisant Xano → mise en place d’un système d’inscription.
 
 J’ai créé un composant code dans Framer : lorsqu’on saisit le nom d’utilisateur et le mot de passe, il récupère les informations via l’API, reçoit la valeur AuthToken et, en cas de succès de la connexion, redirige vers la page d’accueil.
 
-![2025-11-25 15.20.53.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.20.53.png)
+![2025-11-25 15.20.53.png](../DAD-NFN-Seoyul/image/2025-11-25%2015.20.53.png)
 
 ![2025-11-25 15.21.09.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.21.09.png)
 
