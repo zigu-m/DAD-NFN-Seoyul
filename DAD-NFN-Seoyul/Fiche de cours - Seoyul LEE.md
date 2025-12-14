@@ -161,7 +161,7 @@ Commencer à réaliser le site web.
 
 Refonte de la page Articles en utilisant le CMS.
 
-<img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.13.35.png" title="" alt="2025-11-25 15.13.35.png" width="576">
+<img src="/DAD-NFN-Seoyul/image/2025-11-25%2015.13.35.png" title="" alt="2025-11-25 15.13.35.png" width="576">
 
 <img src="file:///Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.13.52.png" title="" alt="2025-11-25 15.13.52.png" width="582">
 
