@@ -181,23 +181,23 @@ J’ai créé un composant code dans Framer : lorsqu’on saisit le nom d’util
 
 ![2025-11-25 15.20.53.png](../DAD-NFN-Seoyul/image/2025-11-25%2015.20.53.png)
 
-![2025-11-25 15.21.09.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.21.09.png)
+![2025-11-25 15.21.09.png](../DAD-NFN-Seoyul/image/2025-11-25%2015.21.09.png)
 
-![2025-11-25 15.21.39.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.21.39.png)
+![2025-11-25 15.21.39.png](../DAD-NFN-Seoyul/image/2025-11-25%2015.21.39.png)
 
-![2025-11-25 15.21.59.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-11-25%2015.21.59.png)
+![2025-11-25 15.21.59.png](../DAD-NFN-Seoyul/image/2025-11-25%2015.21.59.png)
 
 https://framerusercontent.com/modules/bKMLCEzjDfMrgGBx0Fyy/wpPZio3kLHA2HNAoWG1Q/Login.js
 
-![2025-11-25-15-24-00.gif](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/video/2025-11-25-15-24-00.gif)
+![2025-11-25-15-24-00.gif](../DAD-NFN-Seoyul/video/2025-11-25-15-24-00.gif)
 
-![2025-11-25-15-24-00-2.gif](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/video/2025-11-25-15-24-00-2.gif)
+![2025-11-25-15-24-00-2.gif](../DAD-NFN-Seoyul/video/2025-11-25-15-24-00-2.gif)
 
 #### 27.11.2025
 
 Modification des détails de design, changement de la langue de tout le site en français, ajout d’une page personnelle.
 
-![2025-12-01 09.07.54.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-12-01%2009.07.54.png)
+![2025-12-01 09.07.54.png](../DAD-NFN-Seoyul/image/2025-12-01%2009.07.54.png)
 
 https://framerusercontent.com/modules/IlLOomxDm4EeOJGcccxS/XoieDNK36UFQVUq4UjuM/Mypagefill.js
 
@@ -205,23 +205,23 @@ https://framerusercontent.com/modules/mCp6o1Nfzq4wCNjh4FeT/gyZVhF9xrI7U2LpPQKpU/
 
 https://framerusercontent.com/modules/lfjqPsZHbutPf609BTkw/4qVXIvUQXDEnDw8h6wUK/Logout.js
 
-![2025-12-01 09.07.37.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-12-01%2009.07.37.png)
+![2025-12-01 09.07.37.png](../DAD-NFN-Seoyul/image/2025-12-01%2009.07.37.png)
 
-![2025-12-01 09.07.15.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-12-01%2009.07.15.png)
+![2025-12-01 09.07.15.png](../DAD-NFN-Seoyul/image/2025-12-01%2009.07.15.png)
 
 #### 01.12.2025
 
 Création de la page Commentaires.
 
-![2025-12-02 10.04.12.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-12-02%2010.04.12.png)
+![2025-12-02 10.04.12.png](../DAD-NFN-Seoyul/image/2025-12-02%2010.04.12.png)
 
-![2025-12-02 10.04.24.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-12-02%2010.04.24.png)
+![2025-12-02 10.04.24.png](../DAD-NFN-Seoyul/image/2025-12-02%2010.04.24.png)
 
 https://framerusercontent.com/modules/SWDiHz0kxkasqSL0fUYe/f68N9Mm255nKRrGx09kg/Lister.js
 
 Création d’un composant code pour envoyer les articles rédigés vers la base de données Xano et récupérer les données depuis celle-ci.
 
-![2025-12-02 10.04.43.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-12-02%2010.04.43.png)
+![2025-12-02 10.04.43.png](../DAD-NFN-Seoyul/image/2025-12-02%2010.04.43.png)
 
 https://framerusercontent.com/modules/4tftcDNocV2Qfr20vM4r/B92DloWCKtM5qOG3rVVC/Writingform.js
 
@@ -239,9 +239,9 @@ Raison : le code de rechargement toutes les 0,5 secondes générait un grand nom
 
 Création de la page playlist en utilisant les collections CMS et la POO (programmation orientée objet).
 
-![2025-12-02 13.13.44.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-12-02%2013.13.44.png)
+![2025-12-02 13.13.44.png](../DAD-NFN-Seoyul/image/2025-12-02%2013.13.44.png)
 
-![2025-12-02 13.14.42.png](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/2025-12-02%2013.14.42.png)
+![2025-12-02 13.14.42.png](../DAD-NFN-Seoyul/image/2025-12-02%2013.14.42.png)
 
 https://framerusercontent.com/modules/CdQi2Sc8hcle3HUP0Von/fjNmD3oc24nwx3d1SFP2/Musique.js
 
@@ -259,4 +259,4 @@ https://zigucollectioncuratif.framer.website
 
 accrochage, présentation
 
-![DSCF3748.JPEG](/Users/seoyullee/Desktop/DAD-NFN-Seoyul/image/DSCF3748.JPEG)
+![DSCF3748.JPEG](../DAD-NFN-Seoyul/image/DSCF3748.JPEG)
